@@ -1,0 +1,8 @@
+﻿  Курсач2.1.cpp
+C:\Users\stone\source\repos\Курсач2.1\Курсач2.1\MainWindow.h(28,19): warning C4101: displaymode: неиспользованная локальная переменная
+C:\Users\stone\source\repos\Курсач2.1\Курсач2.1\TextMessage.h(28,16): warning C4101: temp: неиспользованная локальная переменная
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 262 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Курсач2.1.vcxproj -> C:\Users\stone\source\repos\Курсач2.1\Release\Курсач2.1.exe

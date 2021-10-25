@@ -1,0 +1,15 @@
+﻿  Курсач2.1.cpp
+C:\Users\stone\source\repos\Курсач2.1\Курсач2.1\Menu.h(28,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\stone\source\repos\Курсач2.1\Курсач2.1\Menu.h(42,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\stone\source\repos\Курсач2.1\Курсач2.1\IdClass.h(104,21): warning C4244: =: преобразование "wint_t" в "char", возможна потеря данных
+C:\Users\stone\source\repos\Курсач2.1\Курсач2.1\StringManager.h(37,22): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\stone\source\repos\Курсач2.1\Курсач2.1\StringManager.h(51,23): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\stone\source\repos\Курсач2.1\Курсач2.1\StringManager.h(68,22): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\stone\source\repos\Курсач2.1\Курсач2.1\StringManager.h(84,22): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\stone\source\repos\Курсач2.1\Курсач2.1\StringManager.h(114,22): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\stone\source\repos\Курсач2.1\Курсач2.1\StringChooseMenu.h(30,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\stone\source\repos\Курсач2.1\Курсач2.1\StringChooseMenu.h(53,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\stone\source\repos\Курсач2.1\Курсач2.1\InputField.h(82): warning C4715: InputField::exec: значение возвращается не при всех путях выполнения
+C:\Users\stone\source\repos\Курсач2.1\Курсач2.1\BiteClass.h(90): warning C4715: Bite::operator==: значение возвращается не при всех путях выполнения
+C:\Users\stone\source\repos\Курсач2.1\Курсач2.1\IdClass.h(34): warning C4715: stringid::Check_Identifier: значение возвращается не при всех путях выполнения
+  Курсач2.1.vcxproj -> C:\Users\stone\source\repos\Курсач2.1\Debug\Курсач2.1.exe
